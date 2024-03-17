@@ -28,7 +28,7 @@ The standard is mandated by the U.S. government and widely used in the private s
 ## [SnapShots]
 
 ### [Basic Flow of program]
-<img src="https://github.com/Joschy1976/Cryptography/blob/master/Cryptography_Project/Cryptography_File_IO.png" height="500" />
+<img src="https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/Cryptography_File_IO.png" height="500" />
 <hr>
 
 ### [Data Flow]
