@@ -32,19 +32,19 @@ The standard is mandated by the U.S. government and widely used in the private s
 <hr>
 
 ### [Data Flow]
-<img src="https://github.com/Joschy1976/Cryptography/blob/master/Cryptography_Project/Data%20FLow.png" height="500" />
+<img src="https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/Data%20FLow.png" height="500" />
 <hr>
 
 ### [Encryption]
-<img src="https://github.com/Joschy1976/Cryptography/blob/master/Cryptography_Project/Encryption.png" height="900" />
+<img src="https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/Encryption.png" height="900" />
 <hr>
 
 ### [Decryption]
-<img src="https://github.com/Joschy1976/Cryptography/blob/master/Cryptography_Project/Decryption.png" height="900" />
+<img src="https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/Decryption.png" height="900" />
 <hr>
 
 ### [Mathematical formula to replace the color matrices]
-<img src="https://github.com/Joschy1976/Cryptography/blob/master/Cryptography_Project/Mathematical%20formula%20to%20replace%20the%20color%20matrices.png" height="500" />
+<img src="https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/Mathematical%20formula%20to%20replace%20the%20color%20matrices.png" height="500" />
 <hr>
 
 ### Connect with me:
@@ -57,7 +57,7 @@ The standard is mandated by the U.S. government and widely used in the private s
 <br />
 
 [website]: https://shinchancode.github.io/3d-react-portfolio/
-[twitter]: https://twitter.com/CodeShinchan
-[instagram]: https://www.instagram.com/aarti.rathiii
-[linkedin]: https://www.linkedin.com/in/aarti-rathi-a6031814b/
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
 
